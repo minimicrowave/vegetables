@@ -23,3 +23,8 @@ body {
 h2 {
     margin-top: 10px;
 }
+
+img {
+    height: 200px;
+    object-fit: cover;
+}
